@@ -7,7 +7,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     /*im a CSS comment! */
-    color: #39a6b2;
+    color: white;
 }
 
 /*apply styles to <header> */
@@ -129,9 +129,10 @@ section {
 }
 
 .hero-cta {
-    margin: auto;
+    margin:auto;
     font-size: 35px;
     color: #39a6b2;
+
 }
 
 .intro {
