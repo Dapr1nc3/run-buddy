@@ -74,7 +74,7 @@ section {
 
 /*Hero Style Start */
 .hero {
-    background-image: url("../../assets/images/hero-bg.jpg");
+    background-image: url(".././/assets/hero-bg.jpg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -126,6 +126,12 @@ section {
 
 .hero-form label {
     margin: 0 5px;
+}
+
+.hero-cta {
+    margin: auto;
+    font-size: 35px;
+    color: #39a6b2;
 }
 
 .intro {
