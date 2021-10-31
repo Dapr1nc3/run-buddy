@@ -13,8 +13,6 @@ https://dapr1nc3.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Devin
 
-<<<<<<< HEAD
 # Run Buddy Inc.
-=======
 ### ©️2019 Run Buddy, Inc 
->>>>>>> 92592eb419ab30db6fdbd2d761096069c90ad7df
+
